@@ -1,0 +1,17 @@
+#logo{
+    width: 75px !important;
+    margin-left: 15px;
+     /* The animation part: */
+     animation-name: logo;
+     animation-duration: 1500ms;
+     animation-iteration-count: 1;
+     animation-timing-function: linear;
+}
+@keyframes logo {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }

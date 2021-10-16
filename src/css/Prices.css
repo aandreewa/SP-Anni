@@ -1,0 +1,31 @@
+.table{
+    margin: 0 auto;
+}
+
+.table1{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.table2{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.nav-item {
+    color: #8f3a78 !important;
+}
+
+.table1 tr:nth-child(odd) {
+    background-color: #f8daf0 !important;
+    }
+
+.table2 tr:nth-child(odd) {
+    background-color: #f8daf0 !important;
+    }
+
+.table2 tr:nth-child(even) {
+    background-color: #fabaea !important;
+    }
+
+ 

@@ -1,0 +1,18 @@
+.IndexInfo-table{
+    width:60% !important;
+    margin: 0 auto;
+    border-color: none !important;
+}
+
+.IndexInfo-table thead{
+    background-color: white;
+}
+.table-borderless > tbody > tr > td,
+.table-borderless > tbody > tr > th,
+.table-borderless > tfoot > tr > td,
+.table-borderless > tfoot > tr > th,
+.table-borderless > thead > tr > td,
+.table-borderless > thead > tr > th {
+    border: none;
+    font-weight: normal !important;
+}

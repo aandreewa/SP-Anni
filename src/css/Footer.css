@@ -1,0 +1,20 @@
+.footer {
+    color: #fff;
+  }
+  .container-footer {
+    padding: 15px;
+  }
+  .footer {
+    background-color: #e2a6d2;
+  }
+
+  .footer {
+    font-size: 17px;
+    padding: 15px 0px 10px 0px;
+    color: #5f1f4e;
+  }
+  
+  .container-footer .row .col .number a img  {
+    margin-right: 15px;
+    width: 40px;
+  }
