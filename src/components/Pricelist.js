@@ -10,7 +10,7 @@ class Prices extends Component {
             <div>
                 <br/>
                 <div class="table1">
-                <h2>Prices</h2>
+                <h2>Pricelist</h2>
                 <br/>
                 <h4>Single Visit</h4>
                 <table class="table">

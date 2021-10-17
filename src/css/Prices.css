@@ -17,15 +17,15 @@
 }
 
 .table1 tr:nth-child(odd) {
-    background-color: #f8daf0 !important;
+    background-color: #f1c3e577 !important;
     }
 
 .table2 tr:nth-child(odd) {
-    background-color: #f8daf0 !important;
+    background-color: #f1c3e577 !important;
     }
 
 .table2 tr:nth-child(even) {
-    background-color: #fabaea !important;
+    background-color: #e2a6d2b2 !important;
     }
 
  

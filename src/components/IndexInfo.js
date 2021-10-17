@@ -15,27 +15,34 @@ class IndexInfo extends Component {
                         <tbody>
                         <tr>
                             <th scope="col" class="col-6"><b>Why should we do yoga?</b><br/>
-                                or sit amet, consectetur aiscing em ipsum dolor sit amet, consectetur adipiscing e</th>
+                            Yoga can make you stronger and more flexible. It's a great way to stay limber and energetic.
+                            </th>
                             <th scope="col" class="col-1"><img src={strength_img} class="img-fluid" alt="..."></img></th>
                             <th scope="col" class="col-5">
                                 <b>Strength, balance and flexibility</b><br/>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing en</th>
+                                Deep breathing increases blood flow, while holding a pose can build strength.</th>
                             </tr>
                             <tr>
-                            <th scope="row" rowspan="3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehende</th>
+                            <th scope="row" rowspan="3">
+                            You'll also feel more focused and alert. And yoga can help you feel great and function better in your daily 
+                            life. Yoga can also help improve health conditions.
+                            <br/><br/>
+                            Yoga offers the powerful benefits of exercise. And since yoga is gentle, almost anyone can do it, regardless 
+                            of age or fitness level.
+                            </th>
                             </tr>
                             <tr>
                             <th scope="col" class="col-1"><img src={relax_img} class="img-fluid" alt="..."></img></th>
                             <th scope="row">
                                 <b>Body and mind relaxation</b><br/>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magn
+                                Bedtime yoga gets you in the right mindset and prepares your body to fall asleep.
                             </th>
                             </tr>
                             <tr>
                             <th scope="col" class="col-1"><img src={energy_img} class="img-fluid" alt="..."></img></th>
                             <th scope="row">
                                 <b>More energy and brighter moods</b><br/>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magn
+                                You may feel increased mental and physical energy, and fewer negative feelings.
                             </th>
                             </tr>
                             

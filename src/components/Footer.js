@@ -15,17 +15,24 @@ class Footer extends Component {
         <div class="container-footer">
           <div class="row">
             <div class="col">
-              <h4>Namaste Yoga Studio</h4>
+              <h5><b>Namaste Yoga Studio</b></h5>
             </div>
 
             <div class="col">
-              <h4>Follow us:</h4>
+            <h5><b>Follow us:</b></h5>
+            </div>
+
+            <div class="col">
+            <h5><b>Subscribe for our newsletter:</b></h5>
             </div>
             
             <div class="w-100"></div>
             <div class="col">
-              Namaste Yoga Studio was established in 2019. We offer practices to relax your body and mind. We want you to be healthy, 
-              happy, and calm.
+              Find us at 9 Yoga Vibe Str, Ruse, Bulgaria.
+              <br/>
+              Call us on +359899838685.
+              <br/><br/>
+              Copyright &copy; Namaste Yoga Studio {this.showCurrentYear()}
             </div>
 
             <div class="col">
@@ -39,14 +46,21 @@ class Footer extends Component {
               </div>
             </div>
             
-            
-            <div class="w-100"></div>
+            <div class="col">
+              <div class="number">
+                <form class="form-inline">
+                  <div class="form-group mb-2">
+                    {/* <label for="staticEmail2" class="sr-only">Enter a valid email address:</label> */}
+                    <input type="password" class="form-control" id="inputPassword2" placeholder="Enter a valid email address"></input>
+                    <button type="submit" class="btn btn-primary mb-2">Subscribe</button>
+                  </div>
+                  
+                </form>
+              </div>
+            </div>
+
           </div>
         </div>
-
-          <div class="copyright">
-            <p>Copyright &copy; Namaste Yoga Studio {this.showCurrentYear()}</p>
-          </div>
         </div>
       );
     }

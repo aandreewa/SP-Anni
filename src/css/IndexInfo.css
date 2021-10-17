@@ -2,11 +2,9 @@
     width:60% !important;
     margin: 0 auto;
     border-color: none !important;
+    padding: 10px;
 }
 
-.IndexInfo-table thead{
-    background-color: white;
-}
 .table-borderless > tbody > tr > td,
 .table-borderless > tbody > tr > th,
 .table-borderless > tfoot > tr > td,
